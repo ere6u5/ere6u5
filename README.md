@@ -1,4 +1,4 @@
-<h1 align="center"><b>
+<h1 align="left><b>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0000&width=600&lines=root%40ere6u5%3A~%24+whoami;" alt="root@ere6u5:~$ whoami"/></b>
 </h1>
 
@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center"><b>
+<h2 align="left"><b>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FF0000&center=true&vCenter=true&width=600&lines=root%40ere6u5%3A~%24+cat+%2Fproc%2Fidentity;" alt="root@ere6u5:~$ cat /proc/identity"/></b>
 </h2>
 
