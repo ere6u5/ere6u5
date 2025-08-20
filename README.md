@@ -6,11 +6,15 @@
   <img src="assets/pictures/main.png" width="600"/>
 </p>
 
-## <code style="font-size: 1.2em; font-weight: bold; color: #ff0000; text-shadow: 0 0 10px #ff0000;">$ cat /proc/identity</code>
+<h2 align="center"><b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FF0000&center=true&vCenter=true&width=600&lines=root%40ere6u5%3A~%24+cat+%2Fproc%2Fidentity;" alt="root@ere6u5:~$ cat /proc/identity"/></b>
+</h2>
+
+## **`$ cat /proc/identity`**
 
 <details>
 <summary>
-  <b style="font-size: 1.1em; color: #ff0000;">🔻 EXECUTE COMMAND — SHOW OUTPUT</b>
+  <b>🔻 EXECUTE COMMAND — SHOW OUTPUT</b>
 </summary>
 
 <br>
