@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="assets/pictures/main.png" width="600"/>
+  <img src="assets/pictures/main.png"/>
 </p>
+
+---
 
 <h2 align="center"><b>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FF0000&center=true&vCenter=true&width=600&lines=root%40ere6u5%3A~%24+cat+%2Fproc%2Fidentity;" alt="root@ere6u5:~$ cat /proc/identity"/></b>
