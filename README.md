@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FF0000&center=true&vCenter=true&width=600&lines=root%40ere6u5%3A~%24+cat+%2Fproc%2Fidentity;" alt="root@ere6u5:~$ cat /proc/identity"/></b>
 </h2>
 
+## **`$ cat /proc/identity`** <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=FF0000&vCenter=true&width=300&lines=%5BPRESS+ENTER+TO+EXECUTE%5D" alt="[PRESS ENTER TO EXECUTE]" align="right"/>
+
 ## **`$ cat /proc/identity`**
 
 <details>
